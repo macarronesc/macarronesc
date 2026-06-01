@@ -1,4 +1,4 @@
-<h1 align="center">Daniel Coll Tejeda</h1>
+<h1 align="center">Daniel Alejandro Coll Tejeda</h1>
 <h4 align="center">Software Engineer — Cloud · AI · Distributed Systems</h4>
 
 <p align="center">
