@@ -45,9 +45,11 @@ Recent engineering work:
 
 ### 🎮 [Invade.io](https://github.com/macarronesc/invade.io) — Mobile Strategy & Conquest
 
+[Google Play](https://play.google.com/store/apps/details?id=macarronesc.invadeio) · [Source code](https://github.com/macarronesc/invade.io)
+
 A **mobile-first territorial strategy game** built with **Godot 4**. Capture bases, move troops and upgrade your army across a **30-level campaign**, with continent-specific rules, bosses, daily challenges and free-conquest expeditions.
 
-I develop the gameplay, progression systems and mobile experience, including local save recovery, accessibility settings and Android/iOS build workflows. **Actively in development**; store services and online leaderboards are not part of the current public version.
+I develop the gameplay, progression systems and mobile experience, including local save recovery, accessibility settings and Android/iOS build workflows. **Actively in development**; cloud saves and online leaderboards are not part of the current public version.
 
 `Godot 4` `GDScript` `Mobile` `Real-time strategy` `Game systems`
 
